@@ -3,6 +3,8 @@ package desion.pattern.openclose;
 import java.text.SimpleDateFormat;
 import java.util.Date;
 
+//扩展类
+//开闭原则要求我们尽量不要修改已有的代码，尽量通过扩展来实现改变
 public class FashionMan extends Man {
 
     @Override
