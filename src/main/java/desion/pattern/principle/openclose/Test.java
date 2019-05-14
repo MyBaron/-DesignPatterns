@@ -1,4 +1,4 @@
-package desion.pattern.openclose;
+package desion.pattern.principle.openclose;
 
 public class Test {
 

@@ -1,4 +1,4 @@
-package desion.pattern.openclose;
+package desion.pattern.principle.openclose;
 
 import java.text.SimpleDateFormat;
 import java.util.Date;
