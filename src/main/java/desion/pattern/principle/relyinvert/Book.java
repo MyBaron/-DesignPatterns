@@ -1,4 +1,4 @@
-package desion.pattern.relyinvert;
+package desion.pattern.principle.relyinvert;
 
 public class Book  implements IReader{
     @Override
