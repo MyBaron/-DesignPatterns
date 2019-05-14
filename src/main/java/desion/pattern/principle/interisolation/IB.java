@@ -1,4 +1,4 @@
-package desion.pattern.interisolation;
+package desion.pattern.principle.interisolation;
 
 public interface IB {
 
