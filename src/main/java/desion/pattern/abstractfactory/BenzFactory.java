@@ -1,14 +1,13 @@
 package desion.pattern.abstractfactory;
 
-public class BWMFactory implements IFactory {
-
+public class BenzFactory implements IFactory {
     @Override
     public Car createBTCar() {
-        return new BWMBTCar();
+        return new BenzBTCar();
     }
 
     @Override
     public Car createGWCar() {
-        return new BWMGWCar();
+        return new BenzGWCar();
     }
 }

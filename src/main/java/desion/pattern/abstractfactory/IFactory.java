@@ -1,6 +1,6 @@
 package desion.pattern.abstractfactory;
 
-public interface IBWMFactory {
+public interface IFactory {
 
     Car createBTCar();
 
